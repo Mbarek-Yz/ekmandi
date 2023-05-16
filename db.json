@@ -193,5 +193,121 @@
           "pu": 1330
         }
       ]
+    },
+    "promo": {
+        "id": 21,
+        "items": [
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 3,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 4,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            }
+          ]
+    },
+    "bonneAffaire": {
+        "id": 21,
+        "items": [
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 3,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 4,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            }
+          ]
+    },
+    "tous": {
+        "id": 21,
+        "items": [
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 3,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 4,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            }
+          ]
+    },
+    "marques": {
+        "id": 21,
+        "items": [
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 3,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 4,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            }
+          ]
     }
    }
