@@ -1,117 +1,139 @@
 {
- "home": {
-    "pubList": [
-        {
-          "id": 1,
-          "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-01/SUN_banners_MVEC_DESKTOP_1136x350px.jpg.webp?itok=pqZBEolL"
-        },
-        {
-          "id": 2,
-          "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-05/sun-capsules-lave-vaisselle-slider-desk_0.jpg.webp?itok=ijEXBQua"
-        },
-        {
-          "id": 3,
-          "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-05/sun-capsules-lave-vaisselle-slider-desk_0.jpg.webp?itok=ijEXBQua"
-        }
-      ],
-      "categories": [
-        { "id": 1, "name": "epiceries", "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#F497241A" },
-        { "id": 2, "name": "boissons","imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#25A0A41A" },
-        { "id": 3, "name": "surgelé","imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#0000000D" },
-        { "id": 4, "name": "surgelé","imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#0000001A" }
-
-      ],
-      "sections": [
-        {
-          "name": "Promotions de la semaine",
-          "color": "#e62440",
-          "items": [
-            {
-              "id": 1,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
+    "home": {
+       "pubList": [
+           {
+             "id": 1,
+             "media": {
+                "idMedia": 21,
+                "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-01/SUN_banners_MVEC_DESKTOP_1136x350px.jpg.webp?itok=pqZBEolL"
+             },
+             "destination": {
+                "id":3,
+                "type": "produit"
+             }
             },
             {
-              "id": 2,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
+                "id": 2,
+                "media": {
+                   "idMedia": 12,
+                   "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-01/SUN_banners_MVEC_DESKTOP_1136x350px.jpg.webp?itok=pqZBEolL"
+                },
+                "destination": {
+                   "id":4,
+                   "type": "categorie"
+                }
             },
             {
-              "id": 3,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            },
-            {
-              "id": 4,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            }
-          ]
-        },
-        {
-          "name": "Bonnes affaires",
-          "color": "#0e76cf",
-          "items": [
-            {
-              "id": 1,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            },
-            {
-              "id": 2,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            },
-            {
-              "id": 3,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            },
-            {
-              "id": 4,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            }
-          ]
-        },
-        {
-          "name": "Nouvelles références",
-          "color": "#4aaf58",
-          "items": [
-            {
-              "id": 1,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            },
-            {
-              "id": 2,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            },
-            {
-              "id": 3,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            },
-            {
-              "id": 4,
-              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
-              "nameProduct": "Milk",
-              "pu": 1330
-            }
-          ]
-        }
-      ]
- }
-}
+                "id": 3,
+                "media": {
+                   "idMedia": 9,
+                   "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-01/SUN_banners_MVEC_DESKTOP_1136x350px.jpg.webp?itok=pqZBEolL"
+                },
+                "destination": {
+                   "id":5,
+                   "type": "marque"
+                }
+               }
+            
+         ],
+         "categories": [
+           { "id": 1, "name": "epiceries", "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#F497241A" },
+           { "id": 2, "name": "boissons","imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#25A0A41A" },
+           { "id": 3, "name": "surgelé","imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#0000000D" },
+           { "id": 4, "name": "surgelé","imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg", "color": "#0000001A" }
+   
+         ],
+         "sections": [
+           {
+             "name": "Promotions de la semaine",
+             "color": "#e62440",
+             "items": [
+               {
+                 "id": 1,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 2,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 3,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 4,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               }
+             ]
+           },
+           {
+             "name": "Bonnes affaires",
+             "color": "#0e76cf",
+             "items": [
+               {
+                 "id": 1,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 2,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 3,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 4,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               }
+             ]
+           },
+           {
+             "name": "Nouvelles références",
+             "color": "#4aaf58",
+             "items": [
+               {
+                 "id": 1,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 2,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 3,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               },
+               {
+                 "id": 4,
+                 "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+                 "nameProduct": "Milk",
+                 "pu": 1330
+               }
+             ]
+           }
+         ]
+    }
+   }
