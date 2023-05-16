@@ -135,5 +135,63 @@
              ]
            }
          ]
+    },
+    "eshop": {
+      "categories": [
+        {
+            "id":2,
+            "name": "Epiceries",
+            "sousCategories" : [
+                {
+                    "id": 43,
+                    "nameSousCategorie": "Condiments"
+                }
+            ]
+        }
+      ],
+      "filtres": [
+        {
+            "idFilter": 2,
+            "nameFilter": "Tous"
+        },
+        {
+            "idFilter": 3,
+            "nameFilter": "Marques"
+        },
+        {
+            "idFilter": 4,
+            "nameFilter": "Bonne affaires"
+        },
+        {
+            "idFilter": 5,
+            "nameFilter": "Promo"
+        }
+      ],
+      "items": [
+        {
+          "id": 1,
+          "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+          "nameProduct": "Milk",
+          "pu": 1330
+        },
+        {
+          "id": 2,
+          "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+          "nameProduct": "Milk",
+          "pu": 1330
+        },
+        {
+          "id": 3,
+          "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+          "nameProduct": "Milk",
+          "pu": 1330
+        },
+        {
+          "id": 4,
+          "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+          "nameProduct": "Milk",
+          "pu": 1330
+        }
+      ]
     }
    }
