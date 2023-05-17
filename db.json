@@ -159,10 +159,36 @@
       {
         "id": 2,
         "name": "Epiceries",
+        "media": {
+          "id": 4,
+          "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+        },
         "sousCategories": [
           {
             "id": 43,
-            "nameSousCategorie": "Condiments"
+            "nameSousCategorie": "A Condiments"
+          },
+          {
+            "id": 44,
+            "nameSousCategorie": "B Condiments"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Boissons",
+        "media": {
+          "id": 4,
+          "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+        },
+        "sousCategories": [
+          {
+            "id": 43,
+            "nameSousCategorie": "Eau"
+          },
+          {
+            "id": 43,
+            "nameSousCategorie": "Jus"
           }
         ]
       }
