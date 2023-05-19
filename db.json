@@ -39,25 +39,25 @@
         {
           "id": 1,
           "name": "epiceries",
-          "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
           "color": "#F497241A"
         },
         {
           "id": 2,
           "name": "boissons",
-          "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
           "color": "#25A0A41A"
         },
         {
           "id": 3,
           "name": "surgelé",
-          "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
           "color": "#0000000D"
         },
         {
           "id": 4,
           "name": "surgelé",
-          "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
           "color": "#0000001A"
         }
       ],
@@ -161,7 +161,7 @@
           "name": "Epiceries",
           "media": {
             "id": 4,
-            "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+            "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
           },
           "sousCategories": [
             {
@@ -195,7 +195,7 @@
               "nameSousCategorie": "Eau",
               "media": {
                 "id": 4,
-                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
               }
             },
             {
@@ -203,7 +203,7 @@
               "nameSousCategorie": "Jus",
               "media": {
                 "id": 4,
-                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
               }
             },
               {
@@ -211,7 +211,7 @@
               "nameSousCategorie": "A eau",
               "media": {
                 "id": 4,
-                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
               }
             },
               {
@@ -219,7 +219,7 @@
               "nameSousCategorie": "B eau",
               "media": {
                 "id": 4,
-                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
               }
             }
           ]
