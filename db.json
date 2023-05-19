@@ -192,19 +192,35 @@
           "sousCategories": [
             {
               "id": 43,
-              "nameSousCategorie": "Eau"
+              "nameSousCategorie": "Eau",
+              "media": {
+                "id": 4,
+                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             },
             {
               "id": 44,
-              "nameSousCategorie": "Jus"
+              "nameSousCategorie": "Jus",
+              "media": {
+                "id": 4,
+                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             },
               {
               "id": 45,
-              "nameSousCategorie": "A eau"
+              "nameSousCategorie": "A eau",
+              "media": {
+                "id": 4,
+                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             },
               {
               "id": 46,
-              "nameSousCategorie": "B eau"
+              "nameSousCategorie": "B eau",
+              "media": {
+                "id": 4,
+                "imgCategorie": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             }
           ]
         }
