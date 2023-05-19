@@ -166,19 +166,35 @@
           "sousCategories": [
             {
               "id": 43,
-              "nameSousCategorie": "A Condiments"
+              "nameSousCategorie": "A Condiments",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             },
             {
               "id": 44,
-              "nameSousCategorie": "B Condiments"
+              "nameSousCategorie": "B Condiments",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             },
               {
               "id": 45,
-              "nameSousCategorie": "C Condiments"
+              "nameSousCategorie": "C Condiments",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             },
               {
               "id": 46,
-              "nameSousCategorie": "D Condiments" 
+              "nameSousCategorie": "D Condiments" ,
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
             }
           ]
         },
