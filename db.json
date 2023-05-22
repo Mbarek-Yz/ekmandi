@@ -1,0 +1,277 @@
+{ 
+    "home": {
+      "pubList": [
+        {
+          "id": 1,
+          "media": {
+            "idMedia": 21,
+            "imgUri": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.solocal.com%2Fressources%2Fdossiers%2Fpublicite-en-ligne&psig=AOvVaw3P_CTARjGHXSzKzh0or4Tb&ust=1684488432319000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiyhMjG_v4CFQAAAAAdAAAAABAD"
+          },
+          "destination": {
+            "id": 3,
+            "type": "produit"
+          }
+        },
+        {
+          "id": 2,
+          "media": {
+            "idMedia": 12,
+            "imgUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Comercio_en_la_plaza_del_9_de_abril_de_1947%2C_T%C3%A1nger%2C_Marruecos%2C_2015-12-11%2C_DD_75.JPG/1200px-Comercio_en_la_plaza_del_9_de_abril_de_1947%2C_T%C3%A1nger%2C_Marruecos%2C_2015-12-11%2C_DD_75.JPG"
+          },
+          "destination": {
+            "id": 4,
+            "type": "categorie"
+          }
+        },
+        {
+          "id": 3,
+          "media": {
+            "idMedia": 9,
+            "imgUri": "https://www.grapheine.com/cdn-cgi/image/width=1950,height=1200,fit=crop,quality=85,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2022/09/couleurs-marques-combinaisons-3.jpg"
+          },
+
+          
+          "destination": {
+            "id": 5,
+            "type": "marque"
+          }
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "epiceries",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "color": "#F497241A"
+        },
+        {
+          "id": 2,
+          "name": "boissons",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "color": "#25A0A41A"
+        },
+        {
+          "id": 3,
+          "name": "surgelé",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "color": "#0000000D"
+        },
+        {
+          "id": 4,
+          "name": "surgelé",
+          "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg",
+          "color": "#0000001A"
+        }
+      ],
+      "sections": [
+        {
+          "name": "Promotions de la semaine",
+          "color": "#e62440",
+          "items": [
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 3,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 4,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            }
+          ]
+        },
+        {
+          "name": "Bonnes affaires",
+          "color": "#0e76cf",
+          "items": [
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 3,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 4,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            }
+          ]
+        },
+        {
+          "name": "Nouvelles références",
+          "color": "#4aaf58",
+          "items": [
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 3,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 4,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            }
+          ]
+        }
+      ]
+    },
+    "eshop": {
+      "categories": [
+        {
+          "id": 2,
+          "name": "Epiceries",
+          "media": {
+            "id": 4,
+            "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+          },
+          "sousCategories": [
+            {
+              "id": 43,
+              "nameSousCategorie": "A Condiments",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            },
+            {
+              "id": 44,
+              "nameSousCategorie": "B Condiments",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            },
+              {
+              "id": 45,
+              "nameSousCategorie": "C Condiments",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            },
+              {
+              "id": 46,
+              "nameSousCategorie": "D Condiments" ,
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Boissons",
+          "media": {
+            "id": 4,
+            "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+          },
+          "sousCategories": [
+            {
+              "id": 43,
+              "nameSousCategorie": "Eau",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            },
+            {
+              "id": 44,
+              "nameSousCategorie": "Jus",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            },
+              {
+              "id": 45,
+              "nameSousCategorie": "A eau",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            },
+              {
+              "id": 46,
+              "nameSousCategorie": "B eau",
+              "media": {
+                "id": 4,
+                "imgUri": "https://boutique.sofratel.fr/laon/wp-content/uploads/sites/17/2021/12/boissons33cl.jpg"
+              }
+            }
+          ]
+        }
+      ],
+      "products": [
+      
+            {
+              "id": 1,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+            {
+              "id": 2,
+              "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+              "nameProduct": "Milk",
+              "pu": 1330
+            },
+          {
+      "id": 3,
+      "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+      "nameProduct": "Milk",
+      "pu": 1330
+    },
+    {
+      "id": 4,
+      "imgProduct": "https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Glass-and-bottle-of-milk-fe0997a.jpg?resize=960,872",
+      "nameProduct": "Milk",
+      "pu": 1330
+    }
+          ]
+    
+     
+      
+    }
+  }
