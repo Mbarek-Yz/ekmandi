@@ -16,7 +16,7 @@
           "id": 2,
           "media": {
             "idMedia": 12,
-            "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-01/SUN_banners_MVEC_DESKTOP_1136x350px.jpg.webp?itok=pqZBEolL"
+            "imgUri": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Comercio_en_la_plaza_del_9_de_abril_de_1947%2C_T%C3%A1nger%2C_Marruecos%2C_2015-12-11%2C_DD_75.JPG/1200px-Comercio_en_la_plaza_del_9_de_abril_de_1947%2C_T%C3%A1nger%2C_Marruecos%2C_2015-12-11%2C_DD_75.JPG"
           },
           "destination": {
             "id": 4,
@@ -27,8 +27,10 @@
           "id": 3,
           "media": {
             "idMedia": 9,
-            "imgUri": "https://www.mavieencouleurs.fr/sites/default/files/styles/brand_page_desktop_image_slider/public/2021-01/SUN_banners_MVEC_DESKTOP_1136x350px.jpg.webp?itok=pqZBEolL"
+            "imgUri": "https://www.grapheine.com/cdn-cgi/image/width=1950,height=1200,fit=crop,quality=85,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2022/09/couleurs-marques-combinaisons-3.jpg"
           },
+
+          
           "destination": {
             "id": 5,
             "type": "marque"
